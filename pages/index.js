@@ -4,9 +4,9 @@ export default function Home() {
       <h1 style={styles.title}>💖 Oi Letícia 💖</h1>
 
       <p style={styles.text}>
-        Eu só queria aproveitar esse momento pra te dizer que você é muito
-        especial pra mim.  
-        Obrigado por fazer meus dias mais leves e bonitos. ✨  
+        Eu só queria aproveitar esse momento pra te desejar um bom dia, e dizer que você é muito
+        especial pra mim e eu te amo muito.  
+         ✨  
       </p>
 
       <p style={styles.signature}>Com carinho, do seu admirador 💌</p>
