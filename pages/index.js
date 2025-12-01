@@ -37,3 +37,5 @@ const styles = {
     maxWidth: "600px",
     color: "#fff",
     lineHeight: "1.6"
+  }
+}
