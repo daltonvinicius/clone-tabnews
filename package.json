@@ -4,10 +4,7 @@
   "description": "Implementação do repositório tabnews para treinar e aprender programação.",
   "main": "index.js",
 "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start",
-  "vercel-build": "next build"
+  "dev": "next dev"
 },
   "author": "",
   "license": "MIT",
